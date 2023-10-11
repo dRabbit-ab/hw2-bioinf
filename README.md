@@ -38,7 +38,7 @@
 
 [Статья](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC379137/#:~:text=per%20human%20chromosome-,In,is%20restricted%20to%20sequences%20located%20in%20introns%20and%20in%20intergenic%20regions.,-Figure%202)
 
-Согласно статье "Genomewide Comparison of DNA Sequences between Humans and Chimpanzees" 2002 года можно видеть, что средний уровень различий генома человека и шимпанзе ~1.4%. Полученные нами данные в целом соответствуют действительности, хотя 1.5% являются довольно завышенным значением.
+Согласно статье "Genomewide Comparison of DNA Sequences between Humans and Chimpanzees" 2002 года можно видеть, что средний уровень различий генома человека и шимпанзе ~1.3%. Полученные нами данные в целом соответствуют действительности, хотя 1.5% являются довольно завышенным значением.
 
 Однако стоит отметить, что для первой хромосомы уровень различий завышен (средний уровень различий 1.2%), что может говорить о том, что этот ген в человеке отличается сильнее, чем другие.
 ![image](https://github.com/dRabbit-ab/hw2-bioinf/assets/79662580/052c5fa6-91bd-4986-abea-abd20d6a5b33)
